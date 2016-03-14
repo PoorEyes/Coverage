@@ -4,5 +4,13 @@ Basic Programming
 -How to use array adapter
 -Steps How to create android project in eclipse
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+Nestor E. Espiloy Jr.
+=======
+Ian Gerard Mayordomo was here!
+>>>>>>> refs/remotes/woodstyle5/master
+=======
 Ian Gerard Mayordomo was here!
 Arielle Paula Lorico :)
+>>>>>>> refs/remotes/woodstyle5/master
